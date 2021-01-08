@@ -1,5 +1,5 @@
 # AI_in_health_technologies_project_work
-Atrial Fibrillation Classification from a Short Single Lead ECG Recording
+Atrial Fibrillation Classification from a Short Single Lead ECG Recording, using dataset from: https://physionet.org/content/challenge-2017/1.0.0/.
 
 Source folder contents:
   - matlab scripts for the data preprocessing:
